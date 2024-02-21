@@ -21,3 +21,12 @@ github push origin master
 
 here origin is self directory and master is the branch you wnt to push into
 
+How to push new repositories from local machine directly into github ? 
+
+first initialize a git repository in your local machine.
+Then add the url of where it should be pushed
+
+Added using git remote add origin 'URL'
+
+git push -u origin main -> What this does is that it sets up upstream.
+
