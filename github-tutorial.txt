@@ -30,3 +30,17 @@ Added using git remote add origin 'URL'
 
 git push -u origin main -> What this does is that it sets up upstream.
 
+What is a git pull ?
+If the remote repository is not our own, then we cannot directly puhs the changes there , instead what we need to do is that we first need to make a git pull command.
+
+Master is the default branch in a repository 
+
+A new branch can be made and we can make changes there.
+
+Each branch looks at changes only that happen on its own branch.
+
+Git branch is the command that shows you all the branches.
+
+Git checkout is used to change branches.
+
+This branch not only shows all the branches but also which branch you are on.
