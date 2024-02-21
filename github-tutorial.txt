@@ -44,3 +44,5 @@ Git branch is the command that shows you all the branches.
 Git checkout is used to change branches.
 
 This branch not only shows all the branches but also which branch you are on.
+
+You can use git commit -a -m , the -a flag is actually a flag that also adds for you, not just commit the changes.
