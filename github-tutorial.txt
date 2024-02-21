@@ -14,3 +14,5 @@ git status ... this tells what is the status of all the files in the directory.
 What files are added what are commited is it upto date with which branch etc. etc.
 
 git add is basically to add the files that you want git to track 
+
+All of this is happening in the local directory, to make is visible in the remote repository , we need to git push it.
