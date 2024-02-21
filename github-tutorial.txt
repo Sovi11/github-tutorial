@@ -1,0 +1,16 @@
+Version control system 
+Repository is a folder where you load the current project
+Github is an online platform where you host repositories whereas git is just a tool for you to do so.
+
+git clone -> used to clone a github repoitory in your local machine
+git add -> add is just add the changes and tells git that you have made some changes
+git commit -> this is commiting your changes / this is saving the changes 
+git push -> uploading your file to remote repository. 
+
+commits can be viewed in github (there is a button to do so)
+
+git status ... this tells what is the status of all the files in the directory.
+
+What files are added what are commited is it upto date with which branch etc. etc.
+
+git add is basically to add the files that you want git to track 
