@@ -64,4 +64,4 @@ and pull request is just merging one code into other... this is generally pulled
 you can delete a branch using 
 git branch -d branch-name
 
-
+git merge X , merges the branch X into your current branch
