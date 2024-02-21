@@ -50,3 +50,18 @@ You can use git commit -a -m , the -a flag is actually a flag that also adds for
 git diff shows you the difference ... idk what the exact arguments to the commands are 
 
 Git diff actually shows you the changes since the last commit 
+
+There are actually 2 ways to merge a code :
+1. You just use git merge.... in this the argument you pass is the branch you want to merge into main.
+2. The second approach is to push this to a new branch and then do a pull request.
+
+You can make a comment about a particular line also in pull requests
+
+OOOOOOO so basically origin is your local computer...
+remote is the remote server
+and pull request is just merging one code into other... this is generally pulled from the server to origin and hence called pull.
+
+you can delete a branch using 
+git branch -d branch-name
+
+
