@@ -65,3 +65,12 @@ you can delete a branch using
 git branch -d branch-name
 
 git merge X , merges the branch X into your current branch
+
+git reset is to unstage a file ... this brings added files into unstaged mode.
+
+git reset HEAD~x uncommits , it roll backs to x version back.
+
+Forking in git...
+forking is just clone ? bringing some other code into your github repository.
+
+Fork is basically for being able to make pull requests later.
