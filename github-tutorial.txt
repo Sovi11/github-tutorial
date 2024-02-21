@@ -16,3 +16,8 @@ What files are added what are commited is it upto date with which branch etc. et
 git add is basically to add the files that you want git to track 
 
 All of this is happening in the local directory, to make is visible in the remote repository , we need to git push it.
+
+github push origin master 
+
+here origin is self directory and master is the branch you wnt to push into
+
